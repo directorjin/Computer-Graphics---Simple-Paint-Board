@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\direc\desktop\programming history\2013112206-4\2013112206\2013112206\source.cpp(177): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\direc\desktop\programming history\2013112206-4\2013112206\2013112206\source.cpp(192): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\direc\desktop\programming history\2013112206-4\2013112206\2013112206\source.cpp(212): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2013112206.vcxproj -> C:\Users\direc\Desktop\Programming history\2013112206-4\2013112206\Debug\2013112206.exe

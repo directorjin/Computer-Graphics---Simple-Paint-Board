@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\direc\desktop\programming history\computer graphics - simple paint board\2013112206\source.cpp(177): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\direc\desktop\programming history\computer graphics - simple paint board\2013112206\source.cpp(192): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\direc\desktop\programming history\computer graphics - simple paint board\2013112206\source.cpp(212): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  249 of 253 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  2013112206.vcxproj -> C:\Users\direc\Desktop\Programming history\Computer Graphics - Simple Paint Board\Release\2013112206.exe
